@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a chapter 4, modified the chapter4 in master branch
+=======
+this is a chapter 4 modified in lesson1 branch
+>>>>>>> lesson1
